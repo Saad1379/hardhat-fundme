@@ -1,0 +1,14 @@
+node_modules
+deployments
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+coverage
+coverage.json
+gas-report.txt
